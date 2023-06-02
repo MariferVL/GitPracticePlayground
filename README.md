@@ -1,68 +1,54 @@
-# Trabajo Colaborativo en GitHub
+# Yessenia Milla - Web Developer
+<p align="center">
+<img width="333"src="https://github.com/MariferVL/PracticaYess/assets/99364311/45e5b8ce-21de-4eb0-b3f9-13f198b424a8">
+</p>
 
-¡Hola, Yess! 
-En este README te hablaré sobre los beneficios del trabajo colaborativo en GitHub y cómo aprovechar algunas de sus funcionalidades clave, como las ramas, los forks y los clones. Además, te invito a que vayas actualizando este README a medida que practiques y adquieras más conocimientos en GitHub.
+¡Hola, Yess! Este README está especialmente dedicado a ti, como una fuente de inspiración y motivación en tu camino como desarrolladora web. Eres una persona increíblemente talentosa y apasionada, y quiero recordarte lo lejos que has llegado y lo emocionante que es el futuro que te espera.
 
-## Beneficios del trabajo colaborativo en GitHub
+## Sobre ti
 
-GitHub es una plataforma que fomenta y facilita el trabajo en equipo en el desarrollo de proyectos. Aquí te presento algunos de los beneficios que ofrece:
+Eres una persona valiente y decidida que ha tomado la iniciativa de convertirse en una desarrolladora web. Tu dedicación y perseverancia son admirables. Recuerda siempre que cada línea de código que escribes es un paso más cerca de tus metas y sueños. No te rindas, porque el mundo de la tecnología te espera con los brazos abiertos.
 
-1. **Control de versiones**: GitHub utiliza Git, un sistema de control de versiones distribuido, lo que te permite realizar un seguimiento de los cambios en tu código y colaborar de manera efectiva con otros desarrolladores.
+## Proyectos destacados
 
-2. **Colaboración sincronizada**: Varios desarrolladores pueden trabajar en un mismo proyecto simultáneamente. GitHub te permite fusionar los cambios de diferentes ramas de forma sencilla y manejar conflictos de manera eficiente.
+Repaso de tus Logros:
 
-3. **Comunicación efectiva**: GitHub ofrece herramientas para que los equipos se comuniquen y colaboren, como comentarios en el código, solicitudes de extracción (pull requests) y problemas (issues).
+### [Proyecto 1: Card validation] (https://github.com/yessllar2023/DEV004-card-validation)
 
-4. **Acceso y visibilidad**: GitHub permite compartir tu código con el mundo y facilita la colaboración con desarrolladores de cualquier parte del mundo. Puedes acceder a proyectos públicos y contribuir a ellos o crear proyectos privados para colaborar con un grupo selecto de personas.
+Este fue un gran logro que me lleno el 💗
 
-## Ramas (Branches)
+(https://yessllar2023.github.io/DEV004-card-validation/src/)
 
-Las ramas en Git te permiten trabajar en diferentes versiones de un proyecto de manera aislada. Esto es especialmente útil para desarrollar nuevas funcionalidades, solucionar problemas o experimentar sin afectar la rama principal del proyecto. Aquí tienes algunos comandos y ejemplos:
 
-- Crear una nueva rama:
-```
-git branch nombre_de_la_rama
-```
-- Cambiar a una rama existente:
-```
-git checkout nombre_de_la_rama
-```
 
-- Crear y cambiar a una nueva rama en un solo paso:
-```
-git checkout -b nombre_de_la_nueva_rama
-```
+### [Proyecto 2: NombreProyecto](https://github.com/yesseniamilla/repo)
 
-- Fusionar una rama en la rama actual:
-```
- git merge nombre_de_la_rama_a_fusionar
- ```
- 
-## Forks
+Agrega tu descripción
 
-Un fork es una copia completa de un repositorio en tu propia cuenta de GitHub. Puedes usar un fork para contribuir a un proyecto sin afectar el repositorio original. A continuación, te muestro cómo hacerlo:
+### [Proyecto 3: NombreProyecto](https://github.com/yesseniamilla/repo)
+Agrega tu descripción
 
-1. En el repositorio que deseas bifurcar, haz clic en el botón "Fork" en la esquina superior derecha de la página. Esto creará una copia del repositorio en tu cuenta.
+## Frases motivacionales
 
-2. Clona el repositorio bifurcado en tu máquina local:
-```
-git clone URL_del_repositorio_bifurcado
-```
+> "El éxito es la suma de pequeños esfuerzos repetidos día tras día" - Robert Collier
 
-3. Realiza los cambios necesarios en tu repositorio bifurcado y realiza commits para guardar los cambios.
+> "El camino hacia el éxito está siempre en construcción" - Lily Tomlin
 
-4. Si deseas contribuir tus cambios al repositorio original, puedes enviar una solicitud de extracción (pull request) desde tu repositorio bifurcado. Esto notificará a los propietarios del repositorio original y les permitirá revisar y fusionar tus cambios.
+> "La única manera de hacer un gran trabajo es amar lo que haces" - Steve Jobs
 
-## Clone
+> "El éxito no es la clave de la felicidad. La felicidad es la clave del éxito. Si amas lo que haces, tendrás éxito" - Albert Schweitzer
 
-El comando `git clone` se utiliza para crear una copia local de un repositorio remoto en tu máquina. Aquí tienes un ejemplo:
+> "No te compares con los demás. Compara tu hoy con tu ayer y mira lo lejos que has llegado" - Desconocido
 
-```
-git clone URL_del_repositorio
-```
-Con este comando, obtendrás una copia completa del repositorio en tu máquina local.
+## Video motivacional
 
-## Playground
+Aquí tienes un video que espero te inspire aún más en tu viaje como desarrolladora web:
 
-Esta sección te servirá como un espacio de juego o sandbox donde puedes experimentar y practicar diferentes conceptos de Git y GitHub. Siéntete libre de realizar modificaciones y probar los comandos que hemos aprendido.
+[¡Mira!](https://www.youtube.com/watch?v=6KI4vWQe6Z0)
+
+Recuerda que cada paso que das y cada desafío que superas te hacen crecer y te acercan a tus metas. Sigue aprendiendo, sigue desafiándote a ti misma y nunca olvides cuán valiosa eres en este mundo de la tecnología.
+
+
+¡Sigue brillando, Yess! Eres una fuerza a tener en cuenta en el mundo del desarrollo web. Recuerda que tienes todo el potencial para lograr grandes cosas. ¡Adelante y sigue construyendo tu camino hacia el éxito!
+
 
