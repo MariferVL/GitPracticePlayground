@@ -62,4 +62,7 @@ git clone URL_del_repositorio
 ```
 Con este comando, obtendrás una copia completa del repositorio en tu máquina local.
 
+## Playground
+
+Esta sección te servirá como un espacio de juego o sandbox donde puedes experimentar y practicar diferentes conceptos de Git y GitHub. Siéntete libre de realizar modificaciones y probar los comandos que hemos aprendido.
 
