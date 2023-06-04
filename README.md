@@ -56,6 +56,6 @@ This repository is licensed under the [MIT License](LICENSE.md). Feel free to us
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please feel free to reach out to [your-name](https://github.com/MariferVL) via GitHub.
+If you have any questions, suggestions, or feedback, please feel free to reach out to [MariferVL](https://github.com/MariferVL) via GitHub.
 
 Happy learning and happy coding!
