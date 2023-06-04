@@ -1,4 +1,4 @@
-# Yessenia Milla - Web Developer
+# Yessenia Millar - Web Developer
 <p align="center">
 <img width="333"src="https://github.com/MariferVL/PracticaYess/assets/99364311/45e5b8ce-21de-4eb0-b3f9-13f198b424a8">
 </p>
@@ -17,13 +17,13 @@ Repaso de tus Logros:
 
 Este fue un gran logro que me lleno el 💗
 
-(https://yessllar2023.github.io/DEV004-card-validation/src/)
+*[link de despliegue] (https://yessllar2023.github.io/DEV004-card-validation/src/)
 
 
 
-### [Proyecto 2: NombreProyecto](https://github.com/yesseniamilla/repo)
+### [Proyecto 2: Data Lovers](https://github.com/yessllar2023/DEV004-data-lovers)
 
-Agrega tu descripción
+*[link de despliegue] (https://yessllar2023.github.io/DEV004-data-lovers/src)
 
 ### [Proyecto 3: NombreProyecto](https://github.com/yesseniamilla/repo)
 Agrega tu descripción
