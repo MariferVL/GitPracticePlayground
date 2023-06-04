@@ -7,3 +7,37 @@ en el código en el que estás trabajando para que puedas trabajar en otra cosa 
 y volver a aplicar los cambios más tarde. Guardar los cambios en stashes resulta práctico si tienes 
 que cambiar rápidamente de contexto y ponerte con otra cosa, pero estás en medio de un cambio en el
 código y no lo tienes todo listo para confirmar los cambios.
+aqui iran los datos de poyecto practica Yess sobre readme trabajo colaborativo
+ en github
+
+  Cómo gestionar varios stashes
+
+No tienes por qué limitarte a un solo stash. De hecho, puedes ejecutar git stash varias veces
+ para crear varios stashes y, luego, usar git stash list para verlos. De forma predeterminada,
+  los stashes se identifican simplemente mediante el acrónimo "WIP" (o "work in progress", que 
+  significa "trabajo en curso") en la parte superior de la rama y la confirmación a partir de 
+  las cuales creaste el stash. Pasado un tiempo, puede costar acordarse del contenido de cada stash:
+
+$ git stash list
+stash@{0}: WIP on main: 5002d47 our new homepage
+stash@{1}: WIP on main: 5002d47 our new homepage
+stash@{2}: WIP on main: 5002d47 our new homepage
+
+Para contextualizar un poquito más, es recomendable comentar los stashes con una descripción mediante 
+el comando git stash save "mensaje":
+
+$ git stash save "add style to our site"
+Saved working directory and index state On main: add style to our site
+HEAD is now at 5002d47 our new homepage
+
+$ git stash list
+stash@{0}: On main: add style to our site
+stash@{1}: WIP on main: 5002d47 our new homepage
+stash@{2}: WIP on main: 5002d47 our new homepage
+
+De forma predeterminada, git stash pop volverá a aplicar el último stash creado: stash@{0}.
+
+Puedes elegir el stash que deseas volver a aplicar poniendo su identificador como último argumento, por ejemplo:
+
+$ git stash pop stash@{2}
+
