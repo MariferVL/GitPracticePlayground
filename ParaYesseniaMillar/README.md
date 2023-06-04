@@ -17,16 +17,21 @@ Repaso de tus Logros:
 
 Este fue un gran logro que me lleno el 💗
 
-*[link de despliegue] (https://yessllar2023.github.io/DEV004-card-validation/src/)
-
+ [link de despliegue](https://yessllar2023.github.io/DEV004-card-validation/src/)
 
 
 ### [Proyecto 2: Data Lovers](https://github.com/yessllar2023/DEV004-data-lovers)
 
-*[link de despliegue] (https://yessllar2023.github.io/DEV004-data-lovers/src)
+Me encanto por dedicarle un espacio a este proyecto sobre el Studio Ghibli. Es una fuente de inspiracion para
+ futuros Data-Lovers con otras tematicas.
 
-### [Proyecto 3: NombreProyecto](https://github.com/yesseniamilla/repo)
-Agrega tu descripción
+ [link de despliegue](https://yessllar2023.github.io/DEV004-data-lovers/src)
+
+### [Proyecto 3: Social Network](https://github.com/yessllar2023/DEV004-social-network)
+fue una experiencia muy diferente donde logre hacer el metodo crud y desplegar desde otro hosting.
+quedaron issues pendientes por desarrollar que se que los retomare y lograre completar.
+
+ [link de despliegue](https://dev-004-social-network-seven.vercel.app/)
 
 ## Frases motivacionales
 
@@ -40,6 +45,18 @@ Agrega tu descripción
 
 > "No te compares con los demás. Compara tu hoy con tu ayer y mira lo lejos que has llegado" - Desconocido
 
+### Mi aporte en frases que me animan a seguir 
+
+> "Ninguna idea es completamente original"
+
+> "Los dias de espuerzo diario se convierten en una profesión"
+ 
+> "La gente produce lo mejor cuando hace cosas que ama" Ken Robinson
+
+> "Creer es crear" - Lola Indigo
+
+> "La repetición es la madre del aprendizaje"
+
 ## Video motivacional
 
 Aquí tienes un video que espero te inspire aún más en tu viaje como desarrolladora web:
@@ -51,4 +68,4 @@ Recuerda que cada paso que das y cada desafío que superas te hacen crecer y te 
 
 ¡Sigue brillando, Yess! Eres una fuerza a tener en cuenta en el mundo del desarrollo web. Recuerda que tienes todo el potencial para lograr grandes cosas. ¡Adelante y sigue construyendo tu camino hacia el éxito!
 
-
+Gracias Marifer lo tendre presente.
