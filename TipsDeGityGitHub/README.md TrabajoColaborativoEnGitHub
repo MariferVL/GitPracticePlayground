@@ -1,2 +1,9 @@
-aqui iran los datos de poyecto practica Yess sobre readme trabajo colaborativo
- en github
+aqui iran los datos de poyecto practica Yess sobre readme trabajo colaborativo en github.
+
+# Git Stash
+
+  El comando git stash almacena temporalmente (o guarda en un stash) los cambios que hayas efectuado 
+en el código en el que estás trabajando para que puedas trabajar en otra cosa y, más tarde, regresar 
+y volver a aplicar los cambios más tarde. Guardar los cambios en stashes resulta práctico si tienes 
+que cambiar rápidamente de contexto y ponerte con otra cosa, pero estás en medio de un cambio en el
+código y no lo tienes todo listo para confirmar los cambios.
