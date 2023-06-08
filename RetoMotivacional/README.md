@@ -19,3 +19,13 @@ Recuerda revisar el repositorio regularmente para disfrutar de tu creciente cole
 ¡Disfruta del proceso y mantén encendida la chispa de motivación en tu camino como desarrolladora web!
 
 Si tienes alguna pregunta o necesitas ayuda adicional, no dudes en hacerla. ¡Adelante y que la inspiración te acompañe!
+
+
+# registro motivacional
+
+jueves 8 de junio 2023
+
+Esta frase esta muy presente para mi y fue a inicios de este año.
+Si bien no tengo una religion que me defina, se han vuelto tan importantes y concientes en mi vida.
+![serenidad](/RetoMotivacional/serenidad.jpg)
+
