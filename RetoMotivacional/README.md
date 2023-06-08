@@ -27,6 +27,5 @@ jueves 8 de junio 2023
 
 Esta frase esta muy presente para mi y fue a inicios de este año.
 Si bien no tengo una religion que me defina, se han vuelto tan importantes y concientes en mi vida.
- 
-![serenidad](../../laboratoria%20yes/serenidad.jpg)
+![serenidad](/RetoMotivacional/serenidad.jpg)
 
