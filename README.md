@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-git p"# PracticaYessColab" 
-2 ejemplo 
-invitacion aceptada
-colaborando
-forkeo - clono
-git add - git commit - git pull
-=======
 # Git and GitHub Learning Repository
 
 Welcome to the Git and GitHub Learning Repository! This repository has been created to help our classmate improve her skills in using Git and GitHub effectively. Here, you'll find various exercises and resources to practice and learn the basics of version control and collaboration using Git and GitHub.
@@ -67,4 +59,3 @@ This repository is licensed under the [MIT License](LICENSE.md). Feel free to us
 If you have any questions, suggestions, or feedback, please feel free to reach out to [MariferVL](https://github.com/MariferVL) via GitHub.
 
 Happy learning and happy coding!
->>>>>>> 6630cd769090988501edb278fc8850a281298ca5
