@@ -30,4 +30,10 @@ Si bien no tengo una religion que me defina, se han vuelto tan importantes y con
 
 <img src="/RetoMotivacional/serenidad.jpg" width="260">
 
+miercoles 14 de junio 2023
+
+cuando quieres parar o escapar,  pero te cargas de buenas energias y sigues con conviccion.
+
+<img src="/RetoMotivacional/crearlo.jpg" width="260">
+
 
